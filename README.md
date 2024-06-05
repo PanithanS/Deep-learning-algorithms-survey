@@ -1,5 +1,5 @@
 # Deep-learning-algorithms-survey
-A survey of deep learning algorithms that might suit your challenging problems.
+I will keep updating the list of publications to provide a landscape of machine learning applications.
 
 1. Multi-Task learning with deep neural networks
 
